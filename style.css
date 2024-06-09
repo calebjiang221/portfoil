@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    width: 100%;
+    background-color: #4DE3BF;
+    padding: 10px;
+}
+
+header a {
+    text-decoration: none;
+    color: #E3674D;
+    padding: 10px;
+}
+
+nav {
+    background-color: #D1B3E9;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    text-decoration: none;
+    color: #E34D8E;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: #4D70E3;
+}
+
+p {
+    padding-left: 30px;
+}
+
+footer a {
+    padding: 10px;
+    background-color: #E39C4D;
+    display: flex;
+    justify-content: center;
+}
